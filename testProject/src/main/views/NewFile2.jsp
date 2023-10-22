@@ -7,9 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-	안뇽ㅇ=하세요 
-	반갑습니다 - 수민
-	123
-	456
+-수민-
 </body>
 </html>
